@@ -3,8 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android/DATA_PROJECT/Doremoon/Translator/app/src/main/res/layout/activity_main.xml" value="0.3546875" />
-        <entry key="..\:/Android/DATA_PROJECT/Doremoon/Translator/app/src/main/res/layout/activity_splash_screen.xml" value="0.3546875" />
+        <entry key="..\:/Android/DATA_PROJECT/Doremoon/Translator/app/src/main/res/drawable/btn_inline_shape.xml" value="0.31296296296296294" />
+        <entry key="..\:/Android/DATA_PROJECT/Doremoon/Translator/app/src/main/res/drawable/btn_otuline_border_afew_corner_radius_enable.xml" value="0.21354166666666666" />
+        <entry key="..\:/Android/DATA_PROJECT/Doremoon/Translator/app/src/main/res/drawable/btn_outline_shape.xml" value="0.31296296296296294" />
+        <entry key="..\:/Android/DATA_PROJECT/Doremoon/Translator/app/src/main/res/drawable/etxt_rounded_color_on_secondory_outline.xml" value="0.31296296296296294" />
+        <entry key="..\:/Android/DATA_PROJECT/Doremoon/Translator/app/src/main/res/drawable/fingerprint_dialog_error.xml" value="0.21354166666666666" />
+        <entry key="..\:/Android/DATA_PROJECT/Doremoon/Translator/app/src/main/res/drawable/ic_arrow_down.xml" value="0.31296296296296294" />
+        <entry key="..\:/Android/DATA_PROJECT/Doremoon/Translator/app/src/main/res/drawable/ic_close.xml" value="0.21354166666666666" />
+        <entry key="..\:/Android/DATA_PROJECT/Doremoon/Translator/app/src/main/res/drawable/ic_search_.xml" value="0.21354166666666666" />
+        <entry key="..\:/Android/DATA_PROJECT/Doremoon/Translator/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android/DATA_PROJECT/Doremoon/Translator/app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
+        <entry key="..\:/Android/DATA_PROJECT/Doremoon/Translator/app/src/main/res/layout/bottom_sheet_search.xml" value="0.3546875" />
+        <entry key="..\:/Android/DATA_PROJECT/Doremoon/Translator/app/src/main/res/layout/btn_outline_shape.xml" value="0.3546875" />
+        <entry key="..\:/Android/DATA_PROJECT/Doremoon/Translator/app/src/main/res/layout/item_bottom_search_list.xml" value="0.3546875" />
       </map>
     </option>
   </component>
